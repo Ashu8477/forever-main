@@ -1,5 +1,7 @@
 # 🛍️ Forever – Full Stack MERN E-Commerce Platform
 
+<img src="./Forever.png"/>
+
 ![MERN](https://img.shields.io/badge/MERN-Full%20Stack-green)
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-success)
@@ -15,10 +17,10 @@ Built using modern web technologies with production-ready architecture.
 ## 🚀 Live Demo
 
 ### Customer Website
-https://your-frontend-url.vercel.app
+https://forever-main-olive.vercel.app
 
 ### Admin Dashboard
-https://your-admin-url.vercel.app
+https://forever-main-27xx.vercel.app
 
 ---
 
